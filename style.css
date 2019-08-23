@@ -102,7 +102,7 @@ body{
 }
 
 .back{
- 
+ background-color:black;
   display: flex;
 
   transform: perspective(600px) rotateX(0deg);

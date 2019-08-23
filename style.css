@@ -102,14 +102,9 @@ body{
 }
 
 .back{
-  background: white;
+ 
   display: flex;
-  align-items: center;
-  justify-content: center;
-  color: #FFF;
-  text-transform: uppercase;
-  letter-spacing: 8px;
-  font-size: 24px;
+
   transform: perspective(600px) rotateX(0deg);
 }
 

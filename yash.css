@@ -14,4 +14,5 @@ body
 {
 	background-size:cover;
 	background-image:url(../tnrockers.github.io/22.jpg);
+	background-repeat: no-repeat;
 }
